@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\project\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|d:\\github\\project\\todoapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|d:\\github\\project\\todoapp\\test.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|solutionrelative:test.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|d:\\github\\project\\todoapp\\test.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|solutionrelative:test.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.aspx.cs",
+              "DocumentMoniker": "D:\\Github\\project\\TodoApp\\Test.aspx.cs",
+              "RelativeDocumentMoniker": "Test.aspx.cs",
+              "ToolTip": "D:\\Github\\project\\TodoApp\\Test.aspx.cs*",
+              "RelativeToolTip": "Test.aspx.cs*",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAwHMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:33:16.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.aspx",
+              "DocumentMoniker": "D:\\Github\\project\\TodoApp\\Test.aspx",
+              "RelativeDocumentMoniker": "Test.aspx",
+              "ToolTip": "D:\\Github\\project\\TodoApp\\Test.aspx",
+              "RelativeToolTip": "Test.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-10T19:17:07.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Github\\project\\TodoApp\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "D:\\Github\\project\\TodoApp\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-10T19:17:04.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
