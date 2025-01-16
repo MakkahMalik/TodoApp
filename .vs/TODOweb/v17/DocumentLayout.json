@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Github\\project\\TodoApp\\",
   "Documents": [
     {
@@ -9,11 +10,31 @@
     {
       "AbsoluteMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|D:\\Github\\project\\TodoApp\\test.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|solutionrelative:test.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\All Makkah Malik\\source\\repos\\TODOweb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|C:\\Users\\All Makkah Malik\\source\\repos\\TODOweb\\test.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|solutionrelative:test.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|c:\\users\\all makkah malik\\source\\repos\\todoweb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|C:\\Users\\All Makkah Malik\\source\\repos\\TODOweb\\test.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|solutionrelative:test.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|C:\\Users\\All Makkah Malik\\source\\repos\\TODOweb\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|solutionrelative:css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+>>>>>>> 4c67b2b1dc350848ab2da08c32e44a0e16fa1377
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
+<<<<<<< HEAD
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
@@ -31,10 +52,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+=======
+      "VerticalTabListWidth": 201,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\All Makkah Malik\\source\\repos\\TODOweb\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "C:\\Users\\All Makkah Malik\\source\\repos\\TODOweb\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-03T06:06:53.397Z",
+              "EditorCaption": ""
+>>>>>>> 4c67b2b1dc350848ab2da08c32e44a0e16fa1377
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "Test.aspx.cs",
               "DocumentMoniker": "D:\\Github\\project\\TodoApp\\Test.aspx.cs",
               "RelativeDocumentMoniker": "Test.aspx.cs",
@@ -60,6 +102,41 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-01-10T19:17:07.702Z"
+=======
+              "Title": "Test.aspx",
+              "DocumentMoniker": "C:\\Users\\All Makkah Malik\\source\\repos\\TODOweb\\Test.aspx",
+              "RelativeDocumentMoniker": "Test.aspx",
+              "ToolTip": "C:\\Users\\All Makkah Malik\\source\\repos\\TODOweb\\Test.aspx",
+              "RelativeToolTip": "Test.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-25T21:58:41.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\All Makkah Malik\\source\\repos\\TODOweb\\Test.aspx.cs",
+              "RelativeDocumentMoniker": "Test.aspx.cs",
+              "ToolTip": "C:\\Users\\All Makkah Malik\\source\\repos\\TODOweb\\Test.aspx.cs",
+              "RelativeToolTip": "Test.aspx.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAqwF0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:00:47.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\All Makkah Malik\\source\\repos\\TODOweb\\css\\Style.css",
+              "RelativeDocumentMoniker": "css\\Style.css",
+              "ToolTip": "C:\\Users\\All Makkah Malik\\source\\repos\\TODOweb\\css\\Style.css",
+              "RelativeToolTip": "css\\Style.css",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAiwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-25T23:01:51.714Z"
+>>>>>>> 4c67b2b1dc350848ab2da08c32e44a0e16fa1377
             }
           ]
         }

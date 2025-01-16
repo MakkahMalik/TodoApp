@@ -10,7 +10,10 @@
     <UseGlobalApplicationHostFile />
     <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
     <ProjectView>ShowAllFiles</ProjectView>
+<<<<<<< HEAD
     <NameOfLastUsedPublishProfile>D:\Github\project\TodoApp\Properties\PublishProfiles\IISProfile.pubxml</NameOfLastUsedPublishProfile>
+=======
+>>>>>>> 4c67b2b1dc350848ab2da08c32e44a0e16fa1377
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>

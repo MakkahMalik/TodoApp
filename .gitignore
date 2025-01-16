@@ -2,7 +2,11 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+<<<<<<< HEAD
 /.vs/TODOweb/FileContentIndex/cdb1ef9b-2481-4789-a620-985f8bc27619.vsidx
 /.vs/TODOweb/FileContentIndex/80afaa44-b3a2-4f87-b5c4-970ae9dbdf0a.vsidx
 /.vs/TODOweb/FileContentIndex/5b7d8adf-a564-4b2b-a373-50d3c51ed15c.vsidx
 /.vs/TODOweb/FileContentIndex/e82bf723-e5f8-4766-a868-6c4d2cb49ec5.vsidx
+=======
+/.vs/TODOweb/FileContentIndex/fe55b230-a0ee-46d7-b24a-baff2b3829b4.vsidx
+>>>>>>> 4c67b2b1dc350848ab2da08c32e44a0e16fa1377

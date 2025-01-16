@@ -87,6 +87,7 @@ C:\Users\All Makkah Malik\source\repos\TODOweb\bin\Microsoft.Practices.Enterpris
 C:\Users\All Makkah Malik\source\repos\TODOweb\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
 C:\Users\All Makkah Malik\source\repos\TODOweb\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
 C:\Users\All Makkah Malik\source\repos\TODOweb\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+<<<<<<< HEAD
 D:\Github\project\TodoApp\bin\TODOweb.dll.config
 D:\Github\project\TodoApp\bin\TODOweb.dll
 D:\Github\project\TodoApp\bin\TODOweb.pdb
@@ -176,3 +177,5 @@ D:\Github\project\TodoApp\obj\Debug\TODOweb.csproj.CoreCompileInputs.cache
 D:\Github\project\TodoApp\obj\Debug\TODOweb.csproj.Up2Date
 D:\Github\project\TodoApp\obj\Debug\TODOweb.dll
 D:\Github\project\TodoApp\obj\Debug\TODOweb.pdb
+=======
+>>>>>>> 4c67b2b1dc350848ab2da08c32e44a0e16fa1377
