@@ -3,15 +3,11 @@
   "WorkspaceRootPath": "D:\\Github\\project\\TodoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|d:\\github\\project\\todoapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|d:\\github\\project\\todoapp\\test.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|solutionrelative:test.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|d:\\github\\project\\todoapp\\test.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|D:\\Github\\project\\TodoApp\\test.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{39724229-AAA8-4CDD-AD2B-BB6D72BCAB60}|TODOweb.csproj|solutionrelative:test.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -22,24 +18,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Test.aspx.cs",
               "DocumentMoniker": "D:\\Github\\project\\TodoApp\\Test.aspx.cs",
               "RelativeDocumentMoniker": "Test.aspx.cs",
-              "ToolTip": "D:\\Github\\project\\TodoApp\\Test.aspx.cs*",
-              "RelativeToolTip": "Test.aspx.cs*",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAAwHMAAAAfAAAA",
+              "ToolTip": "D:\\Github\\project\\TodoApp\\Test.aspx.cs",
+              "RelativeToolTip": "Test.aspx.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAowG8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T19:33:16.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Test.aspx",
               "DocumentMoniker": "D:\\Github\\project\\TodoApp\\Test.aspx",
               "RelativeDocumentMoniker": "Test.aspx",
@@ -47,21 +59,7 @@
               "RelativeToolTip": "Test.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-10T19:17:07.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "D:\\Github\\project\\TodoApp\\Default.aspx",
-              "RelativeDocumentMoniker": "Default.aspx",
-              "ToolTip": "D:\\Github\\project\\TodoApp\\Default.aspx",
-              "RelativeToolTip": "Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-10T19:17:04.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T19:17:07.702Z"
             }
           ]
         }
